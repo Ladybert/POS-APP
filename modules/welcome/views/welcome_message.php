@@ -1,4 +1,4 @@
-<div class="content-header mx-4 my-2">
+<!-- <div class="content-header mx-4 my-2">
   <h2>Dashboard</h2>
   <div class="row">
       <div class="col-12 col-sm-6 col-md-3">
@@ -175,15 +175,12 @@
   <div class="card">
     <div class="card-header">
       <h3 class="card-title">Perwngatan g venmting</h3>
-      <!-- /.card-tools -->
+
     </div>
-    <!-- /.card-header -->
     <div class="card-body">
       This is wy you must using git for your code
     </div>
-    <!-- /.card-body -->
   </div>
-  <!-- /.card -->
   <div class="row">
 
 <div class="col-md-8">
@@ -787,4 +784,4 @@ PlayStation 4 500GB Console (PS4)
   </div>
 </div>
 
-
+-->
