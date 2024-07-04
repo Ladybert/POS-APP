@@ -1,0 +1,16 @@
+{
+    "name": "penge/ci3hmvc",
+    "autoload": {
+        "psr-4": {
+            "Penge\\Ci3hmvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rashad"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.15"
+    }
+}
